@@ -1,0 +1,6 @@
+{
+  "name": "DeleteTicket",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DeleteTicket.js"
+}

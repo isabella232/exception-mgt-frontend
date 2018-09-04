@@ -1,0 +1,6 @@
+{
+  "name": "AddTicket",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AddTicket.js"
+}
